@@ -46,3 +46,5 @@ Negative consequences: <!-- optional -->
 * Good, because [argument b]
 * Bad, because [argument c]
 * ... <!-- numbers of pros and cons can vary -->
+
+*YYYY-MM-DD* <!-- optional -->
