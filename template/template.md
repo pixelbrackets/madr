@@ -1,5 +1,6 @@
 # [short title of solved problem and solution]
 
+Status: [Draft|Review|Accepted|Deprecated|Abandoned], [optional addition like replacement ADR] <!-- optional -->
 User Story: [ticket/issue-number] <!-- optional -->
 
 [context and problem statement]
