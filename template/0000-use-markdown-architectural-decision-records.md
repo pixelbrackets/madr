@@ -14,7 +14,7 @@ And if we do, how to structure these recordings?
 
 ## Decision Outcome
 
-Chosen option: MADR, because:
+Chosen option: MADR version 1.3.0, because:
 - Implicit assumptions should be made explicit.
   Design documentation is important to enable people understanding the decisions later on.
   See also [A rational design process: How and why to fake it](https://doi.org/10.1109/TSE.1986.6312940).
